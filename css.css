@@ -1,0 +1,69 @@
+body{
+	font-family: 'Alegreya', serif;
+	max-width: 720px;
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	/*border: 1px solid red;*/
+	padding-bottom: 160px;	
+}
+
+#mainpic{
+	width: 380px;
+	margin-top: 120px;
+	margin-left:auto;
+	margin-right: auto;
+	display:block;
+}
+
+h1{
+	font-size: 78px;
+	margin: 0;
+	margin-top: 40px;
+	text-align: right;
+}
+h2{
+	text-align: right;
+}
+
+ p{
+	margin-top: 20px;
+	padding: 0;
+	line-height: 200%;
+	font-size: 21px;
+	font-weight: 400;
+	text-align: right;
+}
+
+
+#dayCycleWindow {
+	/* color-animation is defined programmatically in circadian_css_animation.php */
+	animation: color-animation 15s linear 0s infinite normal;
+	text-align:center;
+	padding: 100px;
+}
+
+@media only screen and (max-device-width: 752px) and (orientation: portrait) {
+	#mainpic{
+		width: 100%;
+	}
+
+	p{
+		font-size: 34px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
