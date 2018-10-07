@@ -1,4 +1,6 @@
-# circadianCssWithPhp
+# Circadian Css With Php
+by shawnfromportland
+
 A demo of css that is animated based on a local circadian daylight cycle. 
 
 On your php/html page add:
