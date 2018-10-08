@@ -11,3 +11,6 @@ require('circadian_css_animation.php');
 configure the configuration section of circadian_css_animation.php to your liking.
 
 view index.php from this repo in a browser for a demo. 
+
+or see the live demo running on my site here:
+http://shawnfromportland.com/circadianCssWithPhp/
